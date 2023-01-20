@@ -7,7 +7,7 @@
 
 ***
 
-<h3 align="left">Main Tools:</h3>
+<h3 align="left">Main Tools I Use</h3>
 <p align="left"> 
 <img src="https://mrnbayoh.github.io/36c3/images/ida_pro_logo.png" alt="IDA Pro" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware Workstation" width="40" height="40">
