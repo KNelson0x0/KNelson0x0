@@ -52,8 +52,7 @@
     <img src="https://img.shields.io/badge/Azure-40078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
     <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
     <img src="https://img.shields.io/badge/Firefox%20Browser-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?
-    style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=F7DF1E">
