@@ -47,7 +47,7 @@
 ***
 
 
-<h2>IDEs, Frameworks, and Addtional Tools</h2>
+<h2>IDEs, Frameworks, and Additional Tools</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=AffinityDesigner&logoColor=white">
     <img src="https://img.shields.io/badge/Azure-40078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
