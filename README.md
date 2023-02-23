@@ -1,7 +1,7 @@
 
 <h2 align="center">About Me</h2>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/KNelson0x0/KNelson0x0/main/Earth.jpg" width="550" height="550"/>
+    <img src="https://raw.githubusercontent.com/KNelson0x0/KNelson0x0/main/Earth.jpg" width="525" height="525"/>
     <p align="center">I spend a good bit of my freetime here.<p>
 </div>
 
