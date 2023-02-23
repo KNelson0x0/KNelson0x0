@@ -37,6 +37,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/CSharp-147EFB?style=for-the-badge&logo=CSharp&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
