@@ -1,7 +1,7 @@
 
 <h2 align="center">About Me</h2>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/KNelson0x0/KNelson0x0/main/Earth.jpg"/>
+    <img src="https://raw.githubusercontent.com/KNelson0x0/KNelson0x0/main/Earth.jpg" width="400" height="400"/>
     <p align="center">I spend a good bit of my freetime here.<p>
 </div>
 
@@ -18,17 +18,6 @@
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
 
 </p>
-
-***
-
-<h2 align="Left">Stats</h2>
-<br/>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KNelson0x0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stat1">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=KNelson0x0&show_icons=true&locale=en&theme=dark" alt="stat2" /></p>
-
-
-</div>
 
 ***
 
@@ -66,3 +55,14 @@
     <img src="https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
 </div>
 
+
+***
+
+<h2 align="Left">Stats</h2>
+<br/>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KNelson0x0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stat1">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=KNelson0x0&show_icons=true&locale=en&theme=dark" alt="stat2" /></p>
+
+
+</div>
